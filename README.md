@@ -2,7 +2,6 @@
 
 - 🔭 Hoje trabalho com Segurança da Informação
 - 🌱 Estudo Analise de Sistemas para Internet
-- 🤔 I’m looking for help with ...
 
 <div align="center">
   <a href="https://github.com/mathemenezes">
