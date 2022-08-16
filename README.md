@@ -1,7 +1,8 @@
 ## Olá! Eu sou o Matheus Menezes <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">
 
-- 🔭 Hoje trabalho com Segurança da Informação
+- 🔭 Atualmente estou trabalhando na Safeweb Segurança da Informação
 - 🌱 Estudo Analise de Sistemas para Internet
+- 🧠 Estou aprendendo Javascript, TypeScript e CSS
 
 <div align="left">
   <a href="https://github.com/mathemenezes">
