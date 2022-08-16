@@ -2,7 +2,7 @@
 
 - 🔭 Atualmente estou trabalhando na Safeweb Segurança da Informação
 - 🌱 Estudo Analise de Sistemas para Internet
-- 🧠 Estou aprendendo Javascript, TypeScript e CSS
+- 🧠 Estou aprendendo Javascript
 
 <div align="left">
   <a href="https://github.com/mathemenezes">
