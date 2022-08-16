@@ -7,7 +7,7 @@
   <a href="https://github.com/mathemenezes">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mathemenezes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
-<div style="display: inline_block"><br>
+<div>
   
 ## Skills
   <img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
