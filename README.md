@@ -5,7 +5,6 @@
 
 <div align="center">
   <a href="https://github.com/mathemenezes">
-  <img src="https://github-readme-stats-mathemenezes.vercel.app/api?username=mathemenezes&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&show_icons=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mathemenezes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathemenezes&layout=compact&langs_count=7&theme=dark"/>  
 </div>
@@ -23,5 +22,8 @@
   <a href="https://www.linkedin.com/in/mathemenezes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  
+  
+ <a href="https://github.com/peguimasid" align="left"><img src="https://github-readme-stats-peguimasid.vercel.app/api/top-langs/?username=peguimasid&layout=compact&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
  
 </div>
