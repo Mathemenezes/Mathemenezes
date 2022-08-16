@@ -24,6 +24,6 @@
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
   
   
- <a href="https://github.com/mathemenezes" align="left"><img src="https://github-readme-stats-mathemenezes.vercel.app/api/top-langs/?username=mathemenezes&layout=compact&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+ <a href="https://github.com/mathemenezes" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathemenezes&layout=compact&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
  
 </div>
